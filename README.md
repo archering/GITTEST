@@ -1,0 +1,4 @@
+GITTEST
+=======
+
+NOTHING FOR TEST ONLY
